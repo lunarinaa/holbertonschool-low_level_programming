@@ -12,7 +12,7 @@ int main(void)
 {
 int x;
 char hex[] = "0123456789abcdef";
-for (x = 0; x <= 16; x++)
+for (x = 0; x < 16; x++)
 {
 putchar(hex[x]);
 }
