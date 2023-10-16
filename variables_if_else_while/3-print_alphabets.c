@@ -16,10 +16,11 @@ while (abc <= 'z')
 putchar(abc);
 abc++;
 }
-char ABC = 'A';
-for (ABC = 'A'; ABC <= 'Z'; ABC++)
+abc = 'A';
+while (abc <= 'Z')
 {
-putchar(ABC);
+putchar(abc);
+abc++;
 }
 putchar('\n');
 return (0);
