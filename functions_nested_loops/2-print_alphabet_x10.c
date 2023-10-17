@@ -10,7 +10,7 @@ int times = 10;
 int i;
 for (i = 0; i < times; i++)
 {
-char abc;  
+char abc;
 for (abc = 'a'; abc <= 'z'; abc++)
 {
 _putchar (abc);
