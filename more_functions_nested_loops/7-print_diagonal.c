@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * print_diagonal - draws a diagonal line
  * @n: number of times slach is used
  */
