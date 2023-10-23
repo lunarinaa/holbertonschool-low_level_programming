@@ -20,9 +20,9 @@ _putchar(str[i]);
 }
 else if (len % 2)
 {
-for (n = (len - 1) / 2; n < len - 1; n++)
-{
-  _putchar (str[n + 1]);
+	for (n = (len - 1) / 2; n < len - 1; n++)
+	{
+		_putchar (str[n + 1]);
 }
 }
 _putchar ('\n');
