@@ -13,7 +13,7 @@ len = 0;
 while (dest[len] != '\0')
 len++;
 /*use len as starting index for scr */
-for (i = 0; scr[i] != '\0'; i++)
+for (i = 0; src[i] != '\0'; i++)
 	{
 	dest[len + i] = src[i];
 	}
