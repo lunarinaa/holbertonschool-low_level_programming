@@ -1,0 +1,14 @@
+#include "main.h"
+/**
+ * _strcmp - function to compare two strings
+ * @s1: first string
+ * @s2: second string
+ */
+{
+while (*s1 && *s2 && *s1 == *s2);
+	{
+		s1++;
+		s2++;
+	}
+return (*s1 - *s2);
+}
