@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include "dog.h"
-/*
+/**
  * free_dog - function to free memory
  * @d: neewd to bee freed
  */
