@@ -10,8 +10,7 @@ int op_mod(int a, int b);
  * op_add - function to  sum up two numbers.
  * @a:  first number.
  * @b: second number.
- *
- * Return: The sum 
+ * Return: The sum
  */
 int op_add(int a, int b)
 {
@@ -55,7 +54,7 @@ int op_div(int a, int b)
  * op_mod - find the remainder of the division.
  * @a: first number.
  * @b: second number.
- * Return:  remainder of the division 
+ * Return:  remainder of the division
  */
 int op_mod(int a, int b)
 {
