@@ -67,8 +67,10 @@ void print_string(va_list arg)
 }
 
 /**
- * prit_all - function to print anything
+ * print_all - function to print anything
  * @format: a string of chars arguments
+ * @...: variable number of arguments
+ *
  */
 void print_all(const char * const format, ...)
 {
