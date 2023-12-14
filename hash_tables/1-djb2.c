@@ -1,6 +1,5 @@
 #include "hash_tables.h"
- 
-/*
+/**
  * hash_djb2 - function to implement algorithm
  * @str: The string to hash.
  *
